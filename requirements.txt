@@ -2,4 +2,4 @@ fastf1
 pandas
 flask
 flask-cors
-
+streamlit
